@@ -2,3 +2,4 @@
 	path = build
 	url = ../../xiph/opusfile.git
 	branch = master
+	update = rebase
